@@ -19,6 +19,7 @@
 
 #include "mul.h"
 
+/* test linking between Jira and Github */
 extern ctrl_hdl_t ctrl_hdl;
 extern struct c_rlim_dat crl; 
 
